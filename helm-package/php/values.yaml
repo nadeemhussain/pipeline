@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: nadeemhshaikh
+  repository: nadeemhshaikh/php
   tag: latest
   pullPolicy: IfNotPresent
 
